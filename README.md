@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/LaGuer/OrbitalGraphs.svg?branch=master)](https://travis-ci.org/gap-packages/OrbitalGraphs)
-[![Code Coverage](https://codecov.io/github/LaGuer/OrbitalGraphs/coverage.svg?branch=master&token=)](https://codecov.io/gh/gap-packages/OrbitalGraphs)
+[![Build Status](https://travis-ci.org/LaGuer/OrbitalGraphs.svg?branch=master)](https://travis-ci.org/LaGuer/OrbitalGraphs)
+[![Code Coverage](https://codecov.io/github/LaGuer/OrbitalGraphs/coverage.svg?branch=master&token=)](https://codecov.io/gh/LaGuer/OrbitalGraphs)
 
 # OrbitalGraphs
 
